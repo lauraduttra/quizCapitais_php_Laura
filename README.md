@@ -1,4 +1,4 @@
-# Quiz Capitais 🏳️
+# *Quiz Capitais 🏳️*
 
 Este é um quiz interativo sobre Geografia, desenvolvido para testar seus conhecimentos sobre países e suas características. O objetivo do jogo é responder corretamente às perguntas, utilizando as alternativas apresentadas. A aplicação possui um design moderno e amigável, com uma paleta de cores vibrante (azul e vermelho) e uma imagem de fundo que remete à temática de Geografia.
 
